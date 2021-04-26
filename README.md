@@ -1,4 +1,4 @@
-# degreed
+# puppy
 
 Nodejs version 12 and above
 Chrome version 59 
